@@ -1,4 +1,4 @@
-# azure-realtime-weather-pipeline
+# Azure-realtime-weather-pipeline
 An end-to-end, real-time weather analytics pipeline on Azure and Microsoft Fabric
 
 ## Overview
